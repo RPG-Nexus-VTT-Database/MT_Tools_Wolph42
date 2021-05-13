@@ -1,4 +1,4 @@
-#Wolph42's Bag of Tricks
+# Wolph42's Bag of Tricks
 
 These are the install files for Wolph42's bag of tricks, version 0.48 with bugfixes current as of 05/13/21.
 
